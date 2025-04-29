@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # 🎬 Movie Recommendation System
 
 This is a content-based movie recommendation system built using Python. It recommends movies similar to a user-given title using TF-IDF vectorization and cosine similarity. Partial matching is also supported to handle typos or incomplete input.
@@ -77,6 +75,3 @@ Based on the movie 'Avengers: Endgame', here are some recommended movies for you
 3. Captain America: Civil War
 ...
 ```
-
-This script will help you quickly find movies similar to the one you like, making it a simple recommendation system.
->>>>>>> 4c4350f2882849bf898c36dee5ef39d1ffc9b9f9
